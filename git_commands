@@ -1,0 +1,5 @@
+$ git status
+$ git add noobs.py
+$ git commit -m "added noobs.py"
+$ git push
+​
